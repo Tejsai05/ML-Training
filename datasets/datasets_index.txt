@@ -1,0 +1,19 @@
+Day_13_Pharma_data.csv
+Day_7_sales_data.csv
+Day_9_banking_data.csv
+Housing.csv
+SVM/pima-indians-diabetes.data.csv
+Traffic.csv
+diabetes.csv
+netflix_titles.csv
+practice/Cars.csv
+practice/Movie.csv
+practice/NewspaperData.csv
+practice/Titanic 2.csv
+practice/Wholesale customers data.csv
+practice/contacts_to_import.csv
+practice/diabetes.csv
+practice/hierarchical-clustering.csv
+practice/pima-indians-diabetes.data.csv
+projects/Heart_Disease_Dataset.csv
+projects/Water_Potability_Data.csv
